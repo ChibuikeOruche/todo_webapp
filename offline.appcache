@@ -1,0 +1,26 @@
+#<?php header('Content-Type: text/cache-manifest'); ?>
+
+CACHE MANIFEST
+#2017-03-31
+#version 1.0.0
+
+CACHE:
+#jquery cdn
+https://code.jquery.com/jquery-1.11.3.min.js
+
+#jquery mobile cdn with theme
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+
+#others related to html
+webscript.js
+
+#images
+images/favicon.png
+
+NETWORK:
+#fully offline no network needed
+
+FALLBACK:
+
+#not relevant
